@@ -1,0 +1,41 @@
+.container {
+  margin-top: 10px;
+}
+
+.purchase-card {
+  width: 350px;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  padding: 1em;
+}
+
+.purchase-card > .show-grid {
+  padding-bottom: 1.5em;
+}
+
+.pickup_savings {
+  text-decoration: underline;
+}
+
+.total_savings {
+  color: red;
+  font-weight: 800;
+}
+
+.item-details-button:focus {
+  outline: none;
+}
+
+.collapse_container {
+  margin-top: 10px;
+  padding: 20px;
+  background-color: gray;
+}
+
+.collapse_container img {
+  margin-right: 10px;
+}
+
+.price-strike {
+  text-decoration-line: line-through;
+  color: gray;
+}
